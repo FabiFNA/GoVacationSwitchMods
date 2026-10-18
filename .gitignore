@@ -1,0 +1,5 @@
+out/
+plugin/build/
+tools/
+__pycache__/
+exefs/
