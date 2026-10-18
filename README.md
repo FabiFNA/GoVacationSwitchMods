@@ -10,6 +10,8 @@ This repository only contains source code. There are no keys and no game files i
 1. plugin: the source code of the two mods
 2. plugin/build.py: builds the two mods and installs them
 3. unpack/wta_unpack.py: unpacks the model and texture archives of the game
+4. docs: how the mods work inside
+5. AGENTS.md: the starting point for contributors and AI assistants
 
 
 ## The two mods
